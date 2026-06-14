@@ -1,0 +1,3 @@
+= passwords and secrets
+
+https://git.zx2c4.com/password-store/about/[pass man page]
